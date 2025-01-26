@@ -1,2 +1,2 @@
 # Bubble-Bros
-GGJ 2025 Submission
+Early Version in 2D
